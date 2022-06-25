@@ -24,7 +24,7 @@ More info at http://efektalab.com/eON29wz
 
 ---
 
-![Zigbee Indoor climate sensor EFEKTA_eON29wz with e-ink display]([https://github.com/smartboxchannel/EFEKTA_eON213z/blob/main/IMAGES/002.jpg](https://github.com/smartboxchannel/EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10%20(2).jpg)) 
+![Zigbee Indoor climate sensor EFEKTA_eON29wz with e-ink display](https://github.com/smartboxchannel/EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10%20(2).jpg)
 #### Technical specifications
 
 ● Model: eON29wz
