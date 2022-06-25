@@ -46,6 +46,21 @@ EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10 (2).jpg](https://githu
 ● Atmospheric Pressure range and accuracy: 30 kPa-110 kPa ± 0.12 kPa
 
 
+##### Main Features
+
+° ZigBee wireless connection, no wiring required
+
+° Monitors temperature, humidity and atmospheric pressure in real time.
+
+° Remote monitoring: When the indoor temperature reaches a certain threshold above or below, the EFKTA eON29wz  sensor can send an alert to your Smart Home system or send a command to other devices.
+
+°  Home Automation: The EFKTA eON29wz temperature and humidity sensor can control other connected devices directly, such as a cordless outlet, to make sure that your fan or humidifier maintains a constant level of comfort for you and your family.
+
+° Accurate measurement: Uses a high-quality sensor from industry-leading manufacturers Sensirion and Bosch.
+
+° Built-in air pressure sensor: monitors the ambient air pressure in the rain, makes the calculation of the weather forecast.
+
+
 ### How to flash the device
 
 1. Download the Smart RF Flash Programmer V1 https://www.ti.com/tool/FLASH-PROGRAMMER
