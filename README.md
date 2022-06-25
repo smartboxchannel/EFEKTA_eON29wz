@@ -24,10 +24,9 @@ More info at http://efektalab.com/eON29wz
 
 ---
 
-![[FEKTA EINK2.9 Inch TEMP-HUM-PRES WEATHER MINI STATION ON NRF52]([https://github.com/smartboxchannel/
-EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10 (2).jpg](https://github.com/smartboxchannel/EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10%20(2).jpg))](https://github.com/smartboxchannel/EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10%20(2).jpg) 
-
-##### Technical specifications
+![FEKTA EINK2.9 Inch TEMP-HUM-PRES WEATHER MINI STATION ON NRF52]([https://github.com/smartboxchannel/
+EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10 (2).jpg]) 
+#### Technical specifications
 
 ● Model: eON29wz
 
@@ -46,7 +45,8 @@ EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10 (2).jpg](https://githu
 ● Atmospheric Pressure range and accuracy: 30 kPa-110 kPa ± 0.12 kPa
 
 
-##### Main Features
+
+#### Main Features
 
 ° ZigBee wireless connection, no wiring required
 
