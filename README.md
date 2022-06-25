@@ -1,7 +1,7 @@
 # EFEKTA_eON29wz
 Zigbee Indoor climate sensor EFEKTA_eON29wz with e-ink display
 
-It's a compact wireless devices, atmospheric pressure, temperature, humidity, weather forecaster, illumination, charts with 2.9" e-paper display, resolution of 296 x 128 pixels.
+It's a compact wireless devices, atmospheric pressure, temperature, humidity, weather forecaster, illumination, charts with 2.9" e-paper display, resolution of 296 x 128 pixels. It works in automation systems Home Assistant, OpenHAB, ioBroker, MajorDoMo via Zigbee2mqtt and ZHA.
 The device has an industrial look, at least I wanted to achieve this. 
 The sensor has good energy efficiency. Powered by CC2530 chip (Zigbee), works with **Zigbee2mqtt, ZHA**.
 
@@ -21,10 +21,22 @@ The sensor has good energy efficiency. Powered by CC2530 chip (Zigbee), works wi
 #### Telegram DiyDev - https://t.me/diy_devices
 
 More info at http://efektalab.com/eON29wz
+
 ---
 
-![FEKTA EINK2.9 Inch TEMP-HUM-PRES WEATHER MINI STATION ON NRF52](https://github.com/smartboxchannel/
-EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10 (2).jpg) 
+![[FEKTA EINK2.9 Inch TEMP-HUM-PRES WEATHER MINI STATION ON NRF52]([https://github.com/smartboxchannel/
+EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10 (2).jpg](https://github.com/smartboxchannel/EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10%20(2).jpg))](https://github.com/smartboxchannel/EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10%20(2).jpg) 
+
+Technical specifications
+
+● Model: eON29wz
+● Display: E-ink display, size 2.9 inches.
+● Battery: AAA X2 (not included)
+● Wireless Protocol: Zigbee
+● Dimensions: 99 × 43 × 12 mm
+● Temperature range and accuracy: 0℃~ +50°C, ±0.3℃
+● Humidity range and accuracy: 0 - 100% relative humidity (non-condensing), ± 3%
+● Atmospheric Pressure range and accuracy: 30 kPa-110 kPa ± 0.12 kPa
 
 
 ### How to flash the device
