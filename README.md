@@ -24,8 +24,8 @@ More info at http://efektalab.com/eON29wz
 
 ---
 
-![FEKTA EINK2.9 Inch TEMP-HUM-PRES WEATHER MINI STATION ON NRF52]([https://github.com/smartboxchannel/
-EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10 (2).jpg]) 
+![FEKTA EINK2.9 Inch TEMP-HUM-PRES WEATHER MINI STATION ON NRF52](https://github.com/smartboxchannel/
+EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10 (2).jpg) 
 #### Technical specifications
 
 ● Model: eON29wz
