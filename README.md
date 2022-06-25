@@ -1,7 +1,9 @@
 # EFEKTA_eON29wz
 Zigbee Indoor climate sensor EFEKTA_eON29wz with e-ink display
 
-Temperature, humidity, pressure and light sensor with 2.9 e-ink display.
+It's a compact wireless devices, atmospheric pressure, temperature, humidity, weather forecaster, illumination, charts with 2.9" e-paper display, resolution of 296 x 128 pixels.
+The device has an industrial look, at least I wanted to achieve this. 
+The sensor has good energy efficiency. Powered by CC2530 chip (Zigbee), works with **Zigbee2mqtt, ZHA**.
 
 ### You can buy a ready-made device by writing to the mail hello@efektalab.com
 
