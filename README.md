@@ -23,7 +23,8 @@ The sensor has good energy efficiency. Powered by CC2530 chip (Zigbee), works wi
 More info at http://efektalab.com/eON29wz
 ---
 
-![FEKTA EINK2.9 Inch TEMP-HUM-PRES WEATHER MINI STATION ON NRF52](https://github.com/smartboxchannel/EFEKTA-EINK290-TEMP-HUM-PRES-WEATHER-MINI-STATION-NRF52/blob/main/Images/0002.jpg) 
+![FEKTA EINK2.9 Inch TEMP-HUM-PRES WEATHER MINI STATION ON NRF52](https://github.com/smartboxchannel/
+EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10 (2).jpg) 
 
 
 ### How to flash the device
