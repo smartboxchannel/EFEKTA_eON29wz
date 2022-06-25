@@ -27,15 +27,22 @@ More info at http://efektalab.com/eON29wz
 ![[FEKTA EINK2.9 Inch TEMP-HUM-PRES WEATHER MINI STATION ON NRF52]([https://github.com/smartboxchannel/
 EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10 (2).jpg](https://github.com/smartboxchannel/EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10%20(2).jpg))](https://github.com/smartboxchannel/EFEKTA_eON29wz/blob/main/Images/photo_2022-06-24_20-59-10%20(2).jpg) 
 
-Technical specifications
+##### Technical specifications
 
 ● Model: eON29wz
+
 ● Display: E-ink display, size 2.9 inches.
+
 ● Battery: AAA X2 (not included)
+
 ● Wireless Protocol: Zigbee
+
 ● Dimensions: 99 × 43 × 12 mm
+
 ● Temperature range and accuracy: 0℃~ +50°C, ±0.3℃
+
 ● Humidity range and accuracy: 0 - 100% relative humidity (non-condensing), ± 3%
+
 ● Atmospheric Pressure range and accuracy: 30 kPa-110 kPa ± 0.12 kPa
 
 
