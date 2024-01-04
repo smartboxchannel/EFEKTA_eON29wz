@@ -1,6 +1,10 @@
 # EFEKTA_eON29wz
 Zigbee Indoor climate sensor EFEKTA_eON29wz with e-ink display
 
+Телеграм чат DIY Devices - https://t.me/diy_devices
+
+Продажа DIY Устройств - https://t.me/diydevmart
+
 It's a compact wireless devices, atmospheric pressure, temperature, humidity, weather forecaster, illumination, charts with 2.9" e-paper display, resolution of 296 x 128 pixels. It works in automation systems Home Assistant, OpenHAB, ioBroker, MajorDoMo via Zigbee2mqtt and ZHA.
 The device has an industrial look, at least I wanted to achieve this. 
 The sensor has good energy efficiency. Powered by CC2530 chip (Zigbee), works with **Zigbee2mqtt, ZHA**.
