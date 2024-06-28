@@ -20,7 +20,9 @@ The sensor has good energy efficiency. Powered by CC2530 chip (Zigbee), works wi
 
 ---
 
-![Zigbee Indoor climate sensor EFEKTA_eON29wz with e-ink display](https://github.com/smartboxchannel/EFEKTA_eON29wz/blob/main/Images/photo_2022-06-11_02-20-21.jpg)
+![Zigbee Indoor climate sensor EFEKTA_eON29wz with e-ink display](https://github.com/smartboxchannel/EFEKTA_eON29wz/blob/main/Images/01.jpg)
+
+![Zigbee Indoor climate sensor EFEKTA_eON29wz with e-ink display](https://github.com/smartboxchannel/EFEKTA_eON29wz/blob/main/Images/02.jpg)
 #### Technical specifications
 
 ● Model: eON29wz
