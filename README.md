@@ -15,16 +15,8 @@ The sensor has good energy efficiency. Powered by CC2530 chip (Zigbee), works wi
 
 ## You can make your own pcb here - https://www.pcbway.com/setinvite.aspx?inviteid=550959
 
-
-#### Sale: 
-
-#### Video:
-
 #### zigbee2mqtt.io/supported-devices: https://www.zigbee2mqtt.io/supported-devices/#s=efekta
 
-#### Telegram DiyDev - https://t.me/diy_devices
-
-More info at http://efektalab.com/eON29wz
 
 ---
 
