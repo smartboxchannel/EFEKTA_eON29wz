@@ -221,7 +221,7 @@
           "attribute": "F005_Custom"
         },
         "name": "Выбор варианта вывода информации на дисплей",
-        "type": "Boolean",
+        "type": "Integer",
         "init": false,
         "value": 0,
 		"values": [
